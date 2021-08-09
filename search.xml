@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>服务异常</title>
+      <link href="/%E6%9C%8D%E5%8A%A1%E5%BC%82%E5%B8%B8-c7ba41b89ed8/"/>
+      <url>/%E6%9C%8D%E5%8A%A1%E5%BC%82%E5%B8%B8-c7ba41b89ed8/</url>
+      
+        <content type="html"><![CDATA[<p>不小心把根目录的所有者设置成 git:git 了，索性删库跑路直接Azure重开了。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>建站笔记</title>
       <link href="/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0-af1dae8ce117/"/>
       <url>/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0-af1dae8ce117/</url>
